@@ -1,7 +1,8 @@
-# Ames-housing-dataset
+# House Prices - Advanced Regression Techniques
 
 ## Background
-For this project, I am using the [Anes Dataset](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset)
+For this project, I am using the [Ames Housing dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
 
 ## Files inside this repo
 
