@@ -6,6 +6,12 @@ The Ames Housing dataset was compiled by Dean De Cock for use in data science ed
 
 ## Files inside this repo
 
+
+
 ## To DO
+
+Implement a basic neural network.
+
+Improve the neural network
 
 # Contact Details
