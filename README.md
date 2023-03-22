@@ -4,6 +4,8 @@
 For this project, I am using the [Ames Housing dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 The Ames Housing dataset was compiled by Dean De Cock for use in data science education. It's an incredible alternative for data scientists looking for a modernized and expanded version of the often cited Boston Housing dataset. 
 
+## My approach
+
 ## Files inside this repo
 
 
