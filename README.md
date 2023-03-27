@@ -47,3 +47,4 @@ Implement a basic neural network.
 Improve the neural network
 
 # Contact Details
+Email: principi.bruno@gmail.com
