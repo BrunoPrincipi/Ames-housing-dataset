@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
+#V3 - 
 
 # Drop high missing values features
 # Impute missing values on categorical features
